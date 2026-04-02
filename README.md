@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Defensive+Security+%26+SOC+Operations;Building+Autonomous+Active+Defense+Systems;Mastering+Networking+%26+Traffic+Analysis;Evidence+Over+Hype." alt="Typing SVG" />
 </div>
+
 ## 🛡️ About Me
 
 I am a cybersecurity-focused IT undergraduate at Edith Cowan University who believes in doing things properly: mastering the fundamentals, staying consistent, and documenting work clearly. I am naturally drawn to the defensive side of security—understanding how systems fail, how attackers think, and what robust security looks like in real-world environments.
