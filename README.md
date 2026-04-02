@@ -23,7 +23,7 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 * **[G-CROC Active Defense Architecture](https://github.com/Kushan-Rathnayake/G-CROC-Azure-SIEM-SOAR-Active-Defense/tree/main)** <br>
   A comprehensive, autonomous SIEM/SOAR pipeline built entirely within Microsoft Azure. Leverages Sentinel, custom KQL analytics, and MITRE ATT&CK mapping for end-to-end threat containment. *(Pinned Repository)*
 
-* **[blue-team-analysis-cisco-ethical-hacker-capstone](https://github.com/Kushan-Rathnayake/blue-team-analysis-cisco-ethical-hacker-capstone)** <br>
+* **[Forensic-Analysis-Remediation-of-Web-Based-Attack-Vectors](https://github.com/Kushan-Rathnayake/Forensic-Analysis-Remediation-of-Web-Based-Attack-Vectors)** <br>
   A defensive analysis that reframes a Cisco Ethical Hacker capstone, utilizing tools like Nmap, Wireshark, and John the Ripper to translate offensive lab exploits into actionable blue-team remediations. *(Pinned Repository)*
 
 ## 🛠️ Skills & Technical Arsenal
