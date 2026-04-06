@@ -17,6 +17,7 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 ## 🏆 Certifications & Training
 
 * **Cisco Ethical Hacker**
+* **Foundations of Operationalizing MITRE ATT&CK v13**
 
 ## 🚀 Featured Projects
 
