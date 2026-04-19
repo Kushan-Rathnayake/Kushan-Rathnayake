@@ -21,6 +21,9 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 
 ## 🚀 Featured Projects
 
+* **[Project Vanguard: SIEM/SOAR AI-SOC Architecture](https://github.com/Kushan-Rathnayake/Vanguard-SIEM-SOAR-AI-Architecture)** <br>
+  A vendor-agnostic, hybrid-cloud defense pipeline engineered to completely eliminate alert fatigue. Leverages Wazuh detection engineering, serverless Tines SOAR automation, and Llama-3 AI inference to detect Atomic Red Team emulations and drive authenticated Human-in-the-Loop (HITL) remediation. *(Pinned Repository)*
+
 * **[G-CROC Active Defense Architecture](https://github.com/Kushan-Rathnayake/G-CROC-Azure-SIEM-SOAR-Active-Defense/tree/main)** <br>
   A comprehensive, autonomous SIEM/SOAR pipeline built entirely within Microsoft Azure. Leverages Sentinel, custom KQL analytics, and MITRE ATT&CK mapping for end-to-end threat containment. *(Pinned Repository)*
 
