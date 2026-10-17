@@ -16,8 +16,15 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 
 ## 🏆 Certifications & Training
 
+* **Microsoft Certified: Security Operations Analyst Associate**
 * **Cisco Ethical Hacker**
+* **AI Governance Certification by Securiti AI**
 * **Foundations of Operationalizing MITRE ATT&CK v13**
+* **Foundations of Breach & Attack Simulation**
+* **Uniting Threat and Risk Management with NIST 800-53 and MITRE ATT&CK**
+* **Application of ATT&CK Navigator**
+* **MITRE ATT&CK Security Stack Mappings: AWS**
+* **MITRE ATT&CK Security Stack Mappings: Azure**
 
 ## 🚀 Featured Projects
 
