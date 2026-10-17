@@ -39,21 +39,36 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 
 ## 🛠️ Skills & Technical Arsenal
 
-**🛡️ Defensive Security, Cloud & SOC**
-* **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel
-* **Blue Team Operations:** SOC Fundamentals, Threat Detection, Log & Traffic Analysis, Information Security Fundamentals
 
-**🌐 Networking & Infrastructure**
-* **Core Networking:** TCP/IP, VLANs, Network Troubleshooting, Computer Networking
-* **Tools & OS:** Wireshark, Cisco Packet Tracer, Linux, Windows Operating Systems
+## 🛠️ Skills & Technical Arsenal
 
-**⚔️ Ethical Hacking & Offensive Recon**
-* **Tactics & Techniques:** Penetration Testing, Exploiting Applications & Networks, Social Engineering, IoT Security
-* **Assessment:** Vulnerability Assessment, Vulnerability Scanning, Operational Reporting, Pentesting Tools
+### 🛡️ Security Operations & Detection Engineering
+- **SIEM & Security Monitoring:** Microsoft Sentinel, Wazuh, Azure Monitor, Log Analytics, Windows Event Logs, Sysmon
+- **Threat Detection & Hunting:** Kusto Query Language (KQL), Custom Analytics Rules, Log Correlation, MITRE ATT&CK Mapping, Threat Hunting
+- **SOC Operations:** Alert Triage, Incident Investigation, Security Event Analysis, Detection Engineering, Incident Documentation
+- **Microsoft Security Ecosystem (SC-200):** Microsoft Defender XDR, Defender for Endpoint, Defender for Cloud, Microsoft Purview
 
-**💻 Programming, Scripting & Data**
-* **Languages:** Python, Bash, SQL
-* **Architecture:** Database Design, Systems Analysis, Scripting Fundamentals
+### ☁️ Cloud Security & SOAR Automation
+- **Microsoft Azure:** Virtual Machines, Network Security Groups (NSGs), Azure Monitor Agent (AMA), Data Collection Rules (DCRs), Log Analytics Workspaces
+- **Identity & Access Security:** Azure RBAC, Managed Identities, Least-Privilege Access, Cloud Infrastructure Hardening
+- **Security Orchestration & Automation:** Azure Logic Apps, Microsoft Sentinel Playbooks, Tines SOAR, Automated Incident Response
+- **SOC Workflow Integration:** Jira Cloud, Slack, Webhooks, AI-Assisted Alert Enrichment, Human-in-the-Loop (HITL) Response
+
+### ⚔️ Threat Analysis & Offensive Security
+- **Adversary Simulation:** Atomic Red Team, MITRE ATT&CK Navigator, Breach & Attack Simulation, Attack Technique Mapping
+- **Security Assessment:** Vulnerability Assessment, Network Reconnaissance, Web Application Security Testing, Attack Surface Analysis
+- **Security Tools:** Kali Linux, Nmap, Nikto, Wireshark, John the Ripper
+- **Defensive Analysis:** Network Traffic Analysis, Attack Path Reconstruction, Vulnerability Remediation, Security Reporting
+
+### 🌐 Networking & Infrastructure
+- **Networking Fundamentals:** TCP/IP, VLANs, Network Troubleshooting, Packet Analysis, Network Access Controls
+- **Operating Systems:** Windows, Linux (Ubuntu & Kali), Windows Security Auditing, Linux Administration
+- **Infrastructure Tools:** Cisco Packet Tracer, SSH, Network Security Groups, Virtual Machines
+
+### 💻 Programming, Scripting & Development
+- **Languages:** Python, Bash, SQL, Kusto Query Language (KQL)
+- **Development Tools:** Git, GitHub, Command-Line Interfaces (CLI)
+- **Core Concepts:** Scripting & Automation, Database Fundamentals, Systems Analysis, Technical Documentation
 
 ## 📫 Let's Connect
 
