@@ -39,9 +39,6 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 
 ## 🛠️ Skills & Technical Arsenal
 
-
-## 🛠️ Skills & Technical Arsenal
-
 ### 🛡️ Security Operations & Detection Engineering
 - **SIEM & Security Monitoring:** Microsoft Sentinel, Wazuh, Azure Monitor, Log Analytics, Windows Event Logs, Sysmon
 - **Threat Detection & Hunting:** Kusto Query Language (KQL), Custom Analytics Rules, Log Correlation, MITRE ATT&CK Mapping, Threat Hunting
