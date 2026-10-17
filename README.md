@@ -16,7 +16,7 @@ I am a cybersecurity-focused IT undergraduate at Edith Cowan University who beli
 
 ## 🏆 Certifications & Training
 
-* **Microsoft Certified: Security Operations Analyst Associate**
+* **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
 * **Cisco Ethical Hacker**
 * **AI Governance Certification by Securiti AI**
 * **Foundations of Operationalizing MITRE ATT&CK v13**
