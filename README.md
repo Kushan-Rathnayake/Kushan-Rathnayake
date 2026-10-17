@@ -1,4 +1,4 @@
-# ⚡️ Kushan Rathnayake | Cybersecurity Undergraduate / SOC & Cloud Security Analyst / Active Defense Architect 
+# ⚡️ Kushan Rathnayake | 2nd-Year Cybersecurity Undergraduate | SOC & Cloud Security | Detection Engineering
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Defensive+Security+%26+SOC+Operations;Building+Autonomous+Active+Defense+Systems;Mastering+Networking+%26+Traffic+Analysis;Evidence+Over+Hype." alt="Typing SVG" />
