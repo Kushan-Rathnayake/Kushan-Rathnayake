@@ -6,7 +6,7 @@
 
 ## 🛡️ About Me
 
-I am a cybersecurity-focused IT undergraduate at Edith Cowan University who believes in doing things properly: mastering the fundamentals, staying consistent, and documenting work clearly. I am naturally drawn to the defensive side of security—understanding how systems fail, how attackers think, and what robust security looks like in real-world environments.
+I am a cybersecurity-focused IT undergraduate at Edith Cowan University who believes in doing things properly: mastering the fundamentals, staying consistent, and documenting work clearly. I am naturally drawn to the defensive side of security by understanding how systems fail, how attackers think, and what robust security looks like in real-world environments.
 
 * 🔭 **Currently Building:** Cutting-edge SIEM/SOAR pipelines to automate threat detection and response / Strengthening core building blocks (networking, Linux, traffic analysis, database concepts) and exploring how defenders monitor, investigate, and respond to anomalies.
 * ☁️ **Specialties:** Microsoft Azure, Sentinel, Kusto Query Language (KQL) Analytics, Kali Linux and advanced threat hunting.
